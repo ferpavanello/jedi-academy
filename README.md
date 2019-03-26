@@ -1,3 +1,16 @@
+# Comandos
+
+- Criar projeto angular:
+  <br> `ng new angular-curse --prefix=angcur`
+
+- Startar projeto:
+  <br> `ng serve`
+
+- Criar component:
+  <br> `ng g c --spec=false` (spec - testes)
+
+---
+
 # AngularCurse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
